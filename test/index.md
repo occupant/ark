@@ -1,3 +1,3 @@
 # Test page
 
-Link to [home page](../index.html)
+Link to [home page](/arc)
