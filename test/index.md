@@ -1,3 +1,3 @@
 # Test page
 
-Link to [home page](/arc)
+Link to [home page](/ark)
